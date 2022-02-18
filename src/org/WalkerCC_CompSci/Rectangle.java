@@ -9,3 +9,4 @@ public class Rectangle extends Quadrilateral{
                 new Point(startingPoint.getX(), startingPoint.getY() + width));
     }
 }
+
